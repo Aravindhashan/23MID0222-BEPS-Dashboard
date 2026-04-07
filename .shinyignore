@@ -1,0 +1,13 @@
+# Shiny ignore file - files listed here won't be deployed to shinyapps.io
+.git
+.gitignore
+*.pdf
+*.md
+.Rhistory
+.RData
+.Rproj.user
+rsconnect/
+*.Rproj
+.DS_Store
+Thumbs.db
+node_modules/

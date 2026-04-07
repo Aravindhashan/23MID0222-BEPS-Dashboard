@@ -1,0 +1,30 @@
+Package: BEPSDashboard
+Title: BEPS Advanced Data Visualization Dashboard
+Version: 1.0.0
+Date: 2026-04-07
+Author: GitHub Copilot
+Maintainer: GitHub Copilot <copilot@github.com>
+Description: Interactive R Shiny dashboard for analyzing the British Election Panel 
+    Study (BEPS) 2001 dataset. Features include vote distribution analysis, age-based 
+    voting trends, economic perception analysis, leader ratings, and comprehensive 
+    data visualization. Built for VIT Course CSI 3005 - Advanced Data Visualization 
+    Techniques. Includes 6 interactive tabs, 13+ visualizations, global filters, KPI 
+    cards, and automated insight generation.
+License: MIT
+Depends: 
+    R (>= 4.0.0)
+Imports:
+    shiny (>= 1.7.0),
+    shinydashboard (>= 0.7.2),
+    plotly (>= 4.10.0),
+    ggplot2 (>= 3.3.0),
+    dplyr (>= 1.0.0),
+    tidyr (>= 1.0.0),
+    GGally (>= 2.0.0),
+    shinythemes (>= 1.2.0)
+LazyData: true
+LazyLoad: true
+URL: https://github.com/yourusername/BEPS-Advanced-Data-Viz-Dashboard
+BugReports: https://github.com/yourusername/BEPS-Advanced-Data-Viz-Dashboard/issues
+Encoding: UTF-8
+RoxygenNote: 7.1.1

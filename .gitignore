@@ -1,0 +1,39 @@
+# .gitignore for BEPS Dashboard
+
+# R History and Cache
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj.user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Shiny
+.shiny/
+shiny.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Deployment
+rsconnect/
+*.dcf
+
+# Large files (if needed)
+*.zip
+*.tar.gz
+
+# Environment
+.env
+.Rprofile
