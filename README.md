@@ -1,5 +1,5 @@
 # BEPS 2001 Election Analysis Dashboard
-### CSI 3005 — Advanced Data Visualization Techniques | VIT
+### CSI 3005 — Advanced Data Visualization Techniques 
 
 ---
 
@@ -12,7 +12,7 @@
 ##  Project Overview
 
 An interactive **R Shiny** dashboard built on the **British Election Panel Study (BEPS) 2001** dataset.  
-The dashboard demonstrates advanced data-visualization techniques as required by **CSI 3005** at VIT.
+The dashboard demonstrates advanced data-visualization techniques.
 
 | Item | Detail |
 |------|--------|
