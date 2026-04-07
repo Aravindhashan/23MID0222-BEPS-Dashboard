@@ -5,9 +5,7 @@
 
 ## 🚀 LIVE DASHBOARD
 
-> **[▶ CLICK HERE TO OPEN THE LIVE DASHBOARD](https://YOUR-SHINYAPPS-USERNAME.shinyapps.io/BEPS-Dashboard/)**
->
-> *(Replace the URL above with your deployed shinyapps.io / Posit Cloud link before submission)*
+> **[▶ CLICK HERE TO OPEN THE LIVE DASHBOARD](https://aravindhashan23mid0222.shinyapps.io/beps-advanced-data-viz-dashboard/)**
 
 ---
 
