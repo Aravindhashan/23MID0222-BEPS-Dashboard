@@ -79,6 +79,6 @@ BEPS-Advanced-Data-Viz-Dashboard/
 
 ## 👤 Author
 
-**[Your Name]** | **[Registration Number]** | VIT  
+**Om Aravindhashan S** | **23MID0222** | VIT  
 Course: CSI 3005 — Advanced Data Visualization Techniques  
 Submitted: April 2026
