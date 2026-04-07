@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 An interactive **R Shiny** dashboard built on the **British Election Panel Study (BEPS) 2001** dataset.  
 The dashboard demonstrates advanced data-visualization techniques as required by **CSI 3005** at VIT.
@@ -23,35 +23,19 @@ The dashboard demonstrates advanced data-visualization techniques as required by
 
 ---
 
-## 🗂️ Dashboard Tabs
+##  Dashboard Tabs
 
 | Tab | Visualizations |
 |-----|----------------|
-| **📊 Overview** | Donut (vote share) · Bar chart (count) · Grouped bar (by gender) · 4 value boxes |
-| **👥 Age Analysis** | 100% Stacked bar by age group · Box plot · Scatter (age vs vote) |
-| **💷 Economy** | Heatmap (avg econ perception) · Bubble plot · Box plot |
-| **🎙️ Leaders** | Blair vs Europe scatter + trend lines · Grouped bar (leader ratings) |
-| **💡 Insights** | Full HTML analytics report: age polarisation, economy impact, leader bias, anomalies |
+| ** Overview** | Donut (vote share) · Bar chart (count) · Grouped bar (by gender) · 4 value boxes |
+| ** Age Analysis** | 100% Stacked bar by age group · Box plot · Scatter (age vs vote) |
+| ** Economy** | Heatmap (avg econ perception) · Bubble plot · Box plot |
+| ** Leaders** | Blair vs Europe scatter + trend lines · Grouped bar (leader ratings) |
+| ** Insights** | Full HTML analytics report: age polarisation, economy impact, leader bias, anomalies |
 
----
 
-## ✅ Assignment Feature Checklist
 
-- [x] **Time-series / Trend** — 100% stacked bar by age group (age polarisation over cohorts)
-- [x] **Overall Vote Share** — Donut chart in Overview tab
-- [x] **Relationship between variables** — Blair vs Europe scatter with LOESS trend line, coloured by vote, sized by age
-- [x] **Heatmap** — Avg National + Household economic perception by party
-- [x] **Age Group Filter** — Multi-select checkboxes (18-29, 30-49, 50-64, 65+) in sidebar
-- [x] **All filters reactive** — Gender, Knowledge, Europe, Age Group update every chart instantly
-- [x] **Click-to-filter** — Click a bar in the vote-count chart or stacked-age chart → filters the whole dashboard
-- [x] **Insights Tab** — Age polarisation · Economy impact · Leader bias · Gender gap · Anomalies; rich formatted HTML
-- [x] **Party colours** — Exact hex codes used throughout (#E4002B, #0033A0, #FF9F00)
-- [x] **Custom tooltips** — Every Plotly chart shows %, count, avg age, group size
-- [x] **Reset button** — Resets all sidebar filters and click-state in one click
-
----
-
-## 🛠️ Setup & Run Locally
+##  Setup & Run Locally
 
 ```r
 # Install dependencies (run once)
@@ -63,7 +47,7 @@ shiny::runApp(".")
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 BEPS-Advanced-Data-Viz-Dashboard/
